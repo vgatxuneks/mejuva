@@ -1,103 +1,103 @@
-name: fizupajiyoti
+name: sofizufapi
 on: push
 jobs:
-  yonire1:
+  tafazose1:
     runs-on: ubuntu-18.04
     timeout-minutes: 180
     steps:
-    - run: echo "gidafejafu fafesifexe"
-  jamuxiga2:
+    - run: sleep 30m; echo "yepeji wowubi"
+  pago2:
     runs-on: ubuntu-18.04
     timeout-minutes: 180
     steps:
-    - run: echo "siyuru cokitu"
-  tagedo3:
+    - run: sleep 30m; echo "bunima dexexijegi"
+  bovida3:
     runs-on: ubuntu-18.04
     timeout-minutes: 180
     steps:
-    - run: echo "fuluyoye xulidepinolu"
-  fufubexe4:
+    - run: sleep 30m; echo "dacoxe safaricamete"
+  luhi4:
     runs-on: ubuntu-18.04
     timeout-minutes: 180
     steps:
-    - run: echo "gehuca riyutu"
-  saci5:
+    - run: sleep 30m; echo "cenujavofe lifimiridewu"
+  kire5:
     runs-on: ubuntu-18.04
     timeout-minutes: 180
     steps:
-    - run: echo "bolifa vulahohili"
-  lula6:
+    - run: sleep 30m; echo "bitoyuhu huhiherixi"
+  baboba6:
     runs-on: ubuntu-18.04
     timeout-minutes: 180
     steps:
-    - run: echo "fohevujifi mopegikoyi"
-  kucomuyi7:
+    - run: sleep 30m; echo "virepuwu siriyocu"
+  suwaxi7:
     runs-on: ubuntu-18.04
     timeout-minutes: 180
     steps:
-    - run: echo "vewiza deruhu"
-  nuwijo8:
+    - run: sleep 30m; echo "rizowame kadabikilu"
+  xova8:
     runs-on: ubuntu-18.04
     timeout-minutes: 180
     steps:
-    - run: echo "citilulagilu difona"
-  lukefo9:
+    - run: sleep 30m; echo "ruyobusajave buzapiracufe"
+  peroyi9:
     runs-on: ubuntu-18.04
     timeout-minutes: 180
     steps:
-    - run: echo "zipoda rexigi"
-  jaba0:
+    - run: sleep 30m; echo "febeza vehamaro"
+  niba0:
     runs-on: ubuntu-18.04
     timeout-minutes: 180
     steps:
-    - run: echo "xesosiniri sokusizacaya"
-  fimiku12:
+    - run: sleep 30m; echo "vukomizo nurutamoxu"
+  jameva12:
     runs-on: ubuntu-18.04
     timeout-minutes: 180
     steps:
-    - run: echo "ruruhosela zefovofe"
-  kocenusi23:
+    - run: sleep 30m; echo "wilihamokado copigurubo"
+  gexumili23:
     runs-on: ubuntu-18.04
     timeout-minutes: 180
     steps:
-    - run: echo "lehese sopoju"
-  duhe34:
+    - run: sleep 30m; echo "tulapinoji jodinununu"
+  zado34:
     runs-on: ubuntu-18.04
     timeout-minutes: 180
     steps:
-    - run: echo "lenumo sahofo"
-  jeleto45:
+    - run: sleep 30m; echo "gopozivujomu rucaxeda"
+  wadije45:
     runs-on: ubuntu-18.04
     timeout-minutes: 180
     steps:
-    - run: echo "tugayoje wejori"
-  vofe56:
+    - run: sleep 30m; echo "morofuyu bewozela"
+  becepu56:
     runs-on: ubuntu-18.04
     timeout-minutes: 180
     steps:
-    - run: echo "buwimuco xobavimoco"
-  luki67:
+    - run: sleep 30m; echo "rahurowajibe foruwu"
+  hexusahu67:
     runs-on: ubuntu-18.04
     timeout-minutes: 180
     steps:
-    - run: echo "rozigizo yohasuve"
-  mapani78:
+    - run: sleep 30m; echo "vuyuza yovefomexazu"
+  moma78:
     runs-on: ubuntu-18.04
     timeout-minutes: 180
     steps:
-    - run: echo "cahacuzowo peyezoza"
-  texu89:
+    - run: sleep 30m; echo "nowixogaxa hezesase"
+  kasu89:
     runs-on: ubuntu-18.04
     timeout-minutes: 180
     steps:
-    - run: echo "japabuxo wumifeve"
-  soxo90:
+    - run: sleep 30m; echo "pixugulace luciricati"
+  veze90:
     runs-on: ubuntu-18.04
     timeout-minutes: 180
     steps:
-    - run: echo "botebubi yifudawu"
-  lunijilo01:
+    - run: sleep 30m; echo "hecupufe vihugi"
+  fupu01:
     runs-on: ubuntu-18.04
     timeout-minutes: 180
     steps:
-    - run: echo "huraki dikeca"
+    - run: sleep 30m; echo "lesurobace wocovu"
